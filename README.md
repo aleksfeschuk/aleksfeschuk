@@ -5,7 +5,7 @@ Full-stack developer
 I switched careers from history and research into software development. I've been learning to code, and over the past year I completed hands-on programs with ComIT and Scrimba's Fullstack Developer Path. I mostly work with React, TypeScript, and Node.js.
 
 * 🌍  I'm based in Canada
-* * 🖥️  See my portfolio at [My portfolio]([(https://www.aleksfesh-dev.com/)])
+* * 🖥️  See my portfolio at [My portfolio]((https://www.aleksfesh-dev.com/))
 * * ✉️  You can contact me at [aleksfeschuk@gmail.com](mailto:aleksfeschuk@gmail.com)
 * * 🧠  I'm currently learning React and Typescript
 * * 👥  I'm looking to collaborate on Interesting projects
